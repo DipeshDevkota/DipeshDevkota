@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Good Projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolioreact-beige-alpha.vercel.app/](https://portfolioreact-beige-alpha.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://dipeshdevkota1.netlify.app/](https://dipeshdevkota1.netlify.app/)
 
 - 📫 How to reach me **devkotadipesh12@gmail.com**
 
