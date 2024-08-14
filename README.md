@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Good Projects**
 
-- 👨‍💻 All of my projects are available at [https://dipeshdevkota1.netlify.app/](https://dipeshdevkota1.netlify.app/)
+- 👨‍💻 Portfolio: [https://dipeshdevkota1.netlify.app/](https://dipeshdevkota1.netlify.app/)
 
 - 📫 How to reach me **devkotadipesh12@gmail.com**
 
