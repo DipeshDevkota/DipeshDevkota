@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🔭 I’m currently learning MERN <br>👯 I’m looking to collaborate on good projects<br>
 
 ## 🌐 Socials:
