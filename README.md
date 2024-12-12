@@ -19,6 +19,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=DipeshDevkota&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ⏱️ WakaTime Stats:
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Dipesh_D&show_icons=true&theme=react&text_color=FFFFFF)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
