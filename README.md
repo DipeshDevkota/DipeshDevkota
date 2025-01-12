@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dipesh Devkota
 I'm a passionate software developer, currently focusing on **MERN stack** development. I love collaborating on meaningful projects. If you're looking to collaborate or learn something new, feel free to reach out!
 
-- 🔭 **Currently learning**: MERN Stack, Node.js, React, TypeScript
+
 - 👯 **Looking to collaborate** on exciting projects.
 - 💬 **Ask me about**: JavaScript, React, Node.js, MongoDB, and much more!
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/dipesh-devkota-180b05253/)
