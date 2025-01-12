@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Dipesh Devkota
-
-Welcome to my GitHub! I'm a passionate software developer, currently focusing on **MERN stack** development. I love collaborating on meaningful projects. If you're looking to collaborate or learn something new, feel free to reach out!
+I'm a passionate software developer, currently focusing on **MERN stack** development. I love collaborating on meaningful projects. If you're looking to collaborate or learn something new, feel free to reach out!
 
 - 🔭 **Currently learning**: MERN Stack, Node.js, React, TypeScript
 - 👯 **Looking to collaborate** on exciting projects.
@@ -68,7 +67,7 @@ Welcome to my GitHub! I'm a passionate software developer, currently focusing on
 
 ---
 
-## 🐍 GitHub Snake
+
 
 ![Snake Gif](https://raw.githubusercontent.com/DipeshDevkota/DipeshDevkota/output/github-snake.svg)
 
