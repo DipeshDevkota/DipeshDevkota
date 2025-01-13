@@ -73,12 +73,6 @@ I'm a passionate software developer, currently focusing on **MERN stack** develo
 
 ---
 
-## ✍️ Random Dev Quote
-
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ## 💬 Visit Count
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=DipeshDevkota&icon=0&color=0)](https://visitcount.itsvg.in)
