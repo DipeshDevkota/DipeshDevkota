@@ -11,9 +11,7 @@ I'm a passionate software developer, currently focusing on **MERN stack** develo
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-devkota-180b05253/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DipeshDevkota)
 
----
 
 ## 💻 Tech Stack
 
@@ -51,13 +49,6 @@ I'm a passionate software developer, currently focusing on **MERN stack** develo
 ![Dipesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DipeshDevkota&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
-
-
-
-
-
-
-
 
 
 ## 🏆 GitHub Trophies
