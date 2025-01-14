@@ -43,11 +43,22 @@ I'm a passionate software developer, currently focusing on **MERN stack** develo
 
 ---
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DipeshDevkota&theme=dark&hide_border=true)
 ## 📊 GitHub Stats
 
 ![Dipesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DipeshDevkota&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
+
+
+
+
+
+
+
+
 
 ## 🏆 GitHub Trophies
 
@@ -72,10 +83,8 @@ I'm a passionate software developer, currently focusing on **MERN stack** develo
 ![Snake Gif](https://raw.githubusercontent.com/DipeshDevkota/DipeshDevkota/output/github-snake.svg)
 
 ---
-
 ## 💬 Visit Count
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=DipeshDevkota&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
+[![Visitor Count](https://komarev.com/ghpvc/?username=DipeshDevkota&color=brightgreen)](https://github.com/DipeshDevkota)
+--
 
