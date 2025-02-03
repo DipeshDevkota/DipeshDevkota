@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dipesh Devkota
+
 I'm a passionate software developer, currently focusing on **FULLSTACK** development. I love collaborating on meaningful projects. If you're looking to collaborate or learn something new, feel free to reach out!
 
 
