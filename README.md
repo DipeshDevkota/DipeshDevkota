@@ -39,9 +39,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=DipeshDevkota&theme=dark&hide_border=true)
 ## 📊 GitHub Stats
 
 ![Dipesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DipeshDevkota&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
