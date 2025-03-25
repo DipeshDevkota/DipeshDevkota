@@ -57,10 +57,6 @@
 
 ---
 
-## ⏱️ WakaTime Stats
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dipesh_D&show_icons=true&theme=react&text_color=FFFFFF)
-
 ---
 
 ## 📈 Top Repositories
