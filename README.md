@@ -1,6 +1,6 @@
 
 
-- 👯 **Looking to collaborate** on exciting projects.
+- **Looking to collaborate** on exciting projects.
 - 💬 **Ask me about**: JavaScript, React, Node.js, MongoDB,PostgreSql,TypeScript
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/dipesh-devkota-180b05253/)
 
