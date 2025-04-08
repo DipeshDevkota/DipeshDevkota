@@ -45,9 +45,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DipeshDevkota&theme=radical&hide_border=true)
 
 
 
