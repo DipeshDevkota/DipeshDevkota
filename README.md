@@ -37,6 +37,7 @@ LEARNER
 ![Dipesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DipeshDevkota&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dipesh_D&theme=radical&langs_count=8)](https://wakatime.com/@Dipesh_D)
 
 
 
