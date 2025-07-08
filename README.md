@@ -1,4 +1,4 @@
-Exploring Artificial Intelligence and Machine Learning
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-devkota-180b05253/)  
