@@ -1,4 +1,2 @@
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DipeshDevkota&show_icons=true&count_private=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DipeshDevkota&theme=radical)
-![GitHub Contributions](https://ghchart.rshah.org/DipeshDevkota)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DipeshDevkota&theme=dark&ring=C0C0C0&fire=FFFFFF&currStreakLabel=C0C0C0&sideLabels=FFFFFF&dates=AAAAAA&stroke=C0C0C0&background=0D1117)](https://git.io/streak-stats)
